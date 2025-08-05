@@ -26,8 +26,6 @@ I'm beginner ML-Engineer. I'm studying at MEPhI for "Artificial Intelligence".
 
 
 
-</td></tr></table>  
-
 <br/>  
 
 
@@ -44,19 +42,7 @@ I'm beginner ML-Engineer. I'm studying at MEPhI for "Artificial Intelligence".
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+ 
 
   
 
@@ -71,4 +57,3 @@ I'm beginner ML-Engineer. I'm studying at MEPhI for "Artificial Intelligence".
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
