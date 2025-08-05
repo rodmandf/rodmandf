@@ -42,16 +42,6 @@ I'm beginner ML-Engineer. I'm studying at MEPhI for "Artificial Intelligence".
 
 <br/>  
 
- 
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rodmandf&&style=flat-square)  
-  
-
-<br/>  
 
 
 <br />
