@@ -16,7 +16,7 @@ I'm beginner Data-Scientist and ML-Developer. I'm studying at MEPhI for "Artific
 - 💼 I used to work in 3D for a big Moscow company  
   
 
-- 🎓 I’m currently learning ML, Docker, SQL  
+- 🎓 I’m currently learning ML, DL, CV and SQL  
   
 
 - ⚡Also I'm currently studying on Deep Learning School from MIPT.  
