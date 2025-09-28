@@ -4,7 +4,7 @@
 
 
 ### Glad to see you here!  
-I'm beginner ML-Engineer. I'm studying at MEPhI for "Artificial Intelligence".  
+I'm beginner Data-Scientist and ML-Developer. I'm studying at MEPhI for "Artificial Intelligence".  
   
 
 <br/>  
